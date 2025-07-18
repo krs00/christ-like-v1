@@ -1,1 +1,24 @@
 @import url('reset.css');
+
+body {
+  font-family: 'Lato', sans-serif;
+  background-color: #dadada;
+  text-align: center;
+  padding: 2em;
+  color: #333;
+}
+
+h1 {
+  color: #502800; /* warm, earthy tone */
+  margin-bottom: 0.2em;
+  font-size: 3.5rem;
+}
+
+p, li {
+  font-size: 1.2em;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
