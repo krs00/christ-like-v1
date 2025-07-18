@@ -1,5 +1,13 @@
 @import url('reset.css');
 
+html, body {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+Make sure website does not overflow on smaller screens
+
 body {
   font-family: 'Lato', sans-serif;
   background-color: #D6C4A1;
@@ -47,4 +55,8 @@ a:focus {
   background-color: #E7D4B3;
   text-decoration: underline;
   outline: none;
+}
+
+.no-select {
+  user-select: none;
 }
