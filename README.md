@@ -1,5 +1,5 @@
 Temporary website for my dad <br>
 <br>
 
-[visit the website](www.christlikecarpentry.com)
+[visit the website](http://www.christlikecarpentry.com/)
 
