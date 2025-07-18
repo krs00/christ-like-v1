@@ -5,8 +5,7 @@ html, body {
   margin: 0;
   padding: 0;
 }
-
-Make sure website does not overflow on smaller screens
+/* Make sure website does not overflow on smaller screens */
 
 body {
   font-family: 'Lato', sans-serif;
